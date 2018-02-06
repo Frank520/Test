@@ -1,0 +1,53 @@
+From b81a55e5e86023ca50e7490a72cce66ef2dfae2f Mon Sep 17 00:00:00 2001
+From: Frank <464672309@qq.com>
+Date: Tue, 6 Feb 2018 16:25:15 +0800
+Subject: [PATCH 3/4] =?UTF-8?q?=E6=8F=90=E4=BA=A4=E6=96=87=E4=BB=B6?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+---
+ .DS_Store | Bin 0 -> 6148 bytes
+ a.text    |   1 -
+ b.text    |   4 +++-
+ 3 files changed, 3 insertions(+), 2 deletions(-)
+ create mode 100644 .DS_Store
+ delete mode 100644 a.text
+
+diff --git a/.DS_Store b/.DS_Store
+new file mode 100644
+index 0000000000000000000000000000000000000000..5008ddfcf53c02e82d7eee2e57c38e5672ef89f6
+GIT binary patch
+literal 6148
+zcmeH~Jr2S!425mzP>H1@V-^m;4Wg<&0T*E43hX&L&p$$qDprKhvt+--jT7}7np#A3
+zem<@ulZcFPQ@L2!n>{z**<q8>++&mCkOWA81W14cNZ<zv;LbK1Poaz?KmsK2CSc!(
+z0ynLxE!0092;Krf2c+FF_Fe*7ECH>lEfg7;MkzE(HCqgga^y>{tEnwC%0;vJ&^%eQ
+zLs35+`xjp>T0<F0fCPF1$Cyrb|F7^5{eNG?83~ZUUlGt@xh*qZDeu<Z%US-OSsOPv
+j)R!Z4KLME7ReXlK;d!wEw5GODWMKRea10D2@KpjYNUI8I
+
+literal 0
+HcmV?d00001
+
+diff --git a/a.text b/a.text
+deleted file mode 100644
+index 0991831..0000000
+--- a/a.text
++++ /dev/null
+@@ -1 +0,0 @@
+-hah 
+\ No newline at end of file
+diff --git a/b.text b/b.text
+index 594baa0..faece12 100644
+--- a/b.text
++++ b/b.text
+@@ -1,2 +1,4 @@
+ text
+-test
+\ No newline at end of file
++test
++aaaa
++babbb
+\ No newline at end of file
+-- 
+2.14.2
+
